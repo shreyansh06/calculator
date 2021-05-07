@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    border: none;
+}
+.calculator_container{
+    margin: 20px;
+    padding: left 20px;
+    background-color:white;
+    width: 300px;
+    height: 303px;
+}
+#screen{
+    width: 96%;
+    height: 53px;
+    background-color: black;
+    color: white;
+    font-size: 26px;
+    text-align: center;
+   
+}
+input{
+    width: 24%;
+    height: 50px;
+    margin-left: -4px;
+}
+#zero{
+    width:215px;
+}
+#clear{
+    width: 64px;
+    background-color: gray;
+}
+#equal{
+    width: 223px;
+    background-color:#F49D00;
+    margin-left: -3px;
+}
+
+#add{
+    background-color:#F49D00; 
+    margin-left: -3px;
+}
+#sub{
+    background-color:#F49D00;
+}
+#multi{
+    background-color:#F49D00;
+}
+#divide{
+    background-color:#F49D00;
+}
+
+
+
+
